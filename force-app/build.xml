@@ -18,7 +18,7 @@
     </taskdef>
     <!--Deploy the unpackaged set of metadata retrieved with retrieveUnpackaged and run tests in this organization's namespace only -->
     <target name="deployall">  
-      <sf:deploy username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" testlevel="NoTestRun" logtype="Detail" deployRoot="C:\ProgramData\Jenkins\.jenkins\workspace\Checkout Feature Branch and deploy the changes to QA\force-app"/>
+      <sf:deploy username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" testlevel="NoTestRun" logtype="Detail" deployRoot="C:\ProgramData\Jenkins\.jenkins\workspace\Checkout Feature Branch and deploy the changes to QA\force-app\main\default"/>
         </target>
 	
     <!-- Test out deploy and retrieve verbs for package 'mypkg' -->
