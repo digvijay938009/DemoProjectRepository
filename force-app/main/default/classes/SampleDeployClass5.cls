@@ -2,11 +2,11 @@
  * @description       : 
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
- * @last modified on  : 02-12-2024
+ * @last modified on  : 01-31-2024
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 @isTest
-public class SampleDeployClass5 {
+public class SampleDeployClass1 {
 
     public static testmethod void t1() {
         helloMethod();
