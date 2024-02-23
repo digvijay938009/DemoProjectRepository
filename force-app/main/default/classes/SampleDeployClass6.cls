@@ -24,6 +24,6 @@ public class SampleDeployClass6 {
     }
     
     public static void helloMethod() {
-        System.debug('Hello World');
+        System.debug('Hello World123');
     }
 }
