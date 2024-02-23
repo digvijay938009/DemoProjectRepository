@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>SampleDeployClass5</members>
-        <members>SampleDeployClass1</members>
-        <members>SampleDeployClass2</members>
-        <members>SampleDeployClass3</members>
-        <members>SampleDeployClass4</members>
         <members>SampleDeployClass6</members>
         <name>ApexClass</name>
     </types>
